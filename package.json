@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/cronos-team/cronos-images/issues"
   },
-  "homepage": "https://github.com/cronos-team/cronos-images#readme"
+  "homepage": "https://github.com/cronos-team/cronos-images#readme",
+  "dependencies": {
+    "canvas": "^2.8.0"
+  }
 }
