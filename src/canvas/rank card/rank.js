@@ -1,5 +1,5 @@
 const Canvas = require("canvas");
-const { formatVariable, applyText } = require("../utilities/functions");
+const { formatVariable, applyText } = require("../../utilities/functions");
 
 module.exports = class rank {
   constructor() {
